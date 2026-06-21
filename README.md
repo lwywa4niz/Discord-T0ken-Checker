@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f50d.svg" width="32" align="center"/> Karenisme — Discord Token Checker
+# <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f50d.svg" width="32" align="center"/> Discord Token Checker
 
 **A fast, multi-threaded Discord token checker** with proxy support and detailed classification by status, account age, Nitro subscription, and server boosts.
 
